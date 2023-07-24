@@ -9,16 +9,16 @@ After implementing, use grayscale and binary images as inputs and report the res
 </p>
 
 <p align="center">
-  <img src="2.jpeg" alt="Alt Text">
+  <img src="2.png" alt="Alt Text">
 
 #### Binary Images:
 <p align="center">
   <img src="1.png" alt="Alt Text">
 
 <p align="center">
-  <img src="2(1).png" alt="Alt Text">
+  <img src="2 (1).png" alt="Alt Text">
   
 #### Lena Image:
 
 <p align="center">
-  <img src="2(1).png" alt="Alt Text">
+  <img src="lena.png" alt="Alt Text">
